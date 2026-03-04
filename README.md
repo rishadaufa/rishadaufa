@@ -1,3 +1,14 @@
+<div align="center">
+
+# Rishad Aufa Harahap
+#### **Senior Software Engineer | System Architect | Open Source Contributor**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=blue&center=true&vCenter=true&width=450&lines=Building+scalable+distributed+systems;Crafting+high-performance+web+apps;Optimizing+cloud+infrastructure)](https://git.io/typing-svg)
+
+## 💼 Executive Summary
+
+Solution-oriented Software Engineer dedicated to bridging the gap between complex technical architecture and seamless user experiences. Expert in leveraging modern frontend frameworks and scalable backend services to build performant, data-driven applications. Focused on engineering efficiency, performance auditing, and the continuous integration of emerging technologies to maintain a competitive edge.
+
 ## 🛠️ Tech Stack
 
 ### Languages
